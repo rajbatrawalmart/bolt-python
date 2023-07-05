@@ -51,7 +51,7 @@ from .context.respond.async_respond import AsyncRespond
 from .context.say.async_say import AsyncSay
 from .listener.async_listener import AsyncListener
 from .listener_matcher.async_listener_matcher import AsyncCustomListenerMatcher
-from .request.async_request import AsyncBoltRequestt 
+from .request.async_request import AsyncBoltRequest
 
 __all__ = [
     "AsyncApp",
